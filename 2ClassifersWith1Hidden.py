@@ -1,4 +1,4 @@
-```python
+
 # Package imports
 import numpy as np
 import copy
@@ -414,5 +414,3 @@ if dataset == "blobs":
 # Visualize the data
 plt.scatter(X[0, :], X[1, :], c=Y, s=40, cmap=plt.cm.Spectral);
 
-
-```
